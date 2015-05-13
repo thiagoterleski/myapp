@@ -1,0 +1,45 @@
+{
+	"ProjectName": "grocery-list",
+	"ProjectGuid": "{1459a304-5bae-402d-b721-418a9694179a}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.grocerylist",
+	"DisplayName": "grocery-list",
+	"Author": "",
+	"Description": "",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"FrameworkVersion": "3.7.0",
+	"AndroidPermissions": [
+		"android.permission.INTERNET"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "false",
+	"iOSStatusBarStyle": "Default",
+	"Framework": "Cordova",
+	"WP8TileTitle": "",
+	"WP8Publisher": "",
+	"WP8Capabilities": [
+		"ID_CAP_NETWORKING",
+		"ID_CAP_WEBBROWSERCOMPONENT"
+	],
+	"WP8Requirements": [],
+	"WP8PublisherID": "{570e67b0-783b-4240-8a67-57d2a43d4b50}",
+	"WP8ProductID": "{b840003c-dcf7-4342-ab8b-2a72cfbca492}",
+	"WPSdk": "8.0",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.grocerylist",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA",
+		"ID_RESOLUTION_HD720P"
+	]
+}

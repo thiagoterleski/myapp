@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "remo",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cache",
+				"Snippet: Cache-add"
+			],
+			[
+				"orm",
+				"Snippet: Form-macro"
+			],
+			[
+				"db",
+				"Snippet: DB-beginTransaction"
+			],
+			[
+				"snip",
+				"Snippet: DB-update"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"which appbuilder",
+			"which node",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/web/grocery-list"
+	],
+	"file_history":
+	[
+		"/D/web/grocery-list/index.html",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 3/Installed Packages/Telerik AppBuilder.sublime-package",
+		"/D/web/grocery-list/js/index.js",
+		"/D/web/ionic-firebase/www/js/app.js",
+		"/D/web/ionic-firebase/www/js/services.js",
+		"/D/web/ionic-firebase/www/js/controllers.js",
+		"/D/web/ionic-firebase/www/index.html",
+		"/D/web/myApp/www/js/app.js",
+		"/D/web/ionic-wheather/www/js/app.js",
+		"/D/web/todo/www/js/app.js",
+		"/D/web/MyChat/www/js/app.js",
+		"/D/web/chatapp/www/js/app.js",
+		"/D/web/todo/www/index.html",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/config/packages/intervention/image/config.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/config/cache.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/BaseController.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/InstitucionalController.php",
+		"/C/Users/Thiago/Desktop/hosts",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Thiago/AppData/Local/Temp/fz3temp-1/setting.php",
+		"/C/Users/Thiago/AppData/Local/Temp/fz3temp-1/database 2.php",
+		"/C/Users/Thiago/AppData/Local/Temp/fz3temp-1/database.php",
+		"/C/Users/Thiago/AppData/Local/Temp/fz3temp-1/app.php",
+		"/C/Users/Thiago/AppData/Local/Temp/fz3temp-1/index.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/views/pages/orcamento/index.blade.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/routes.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/intervention/imagecache/src/Intervention/Image/ImageCache.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/config/app.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/composer.json",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/config/packages/intervention/imagecache/config.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/storage/logs/laravel.log",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/FileController.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/ImagecacheController.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/OrcamentoController.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/pageroutes.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/moduleroutes.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/filters.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/sximo/themes/bold/css/main.css",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/sximo/themes/bold/css/page.produtos.css",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/sximo/themes/bold/css/page.orcamento.css",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/sximo/js/plugins/bootstrapformhelpers/css/bootstrap-formhelpers.min.css",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/views/layouts/bold/index.blade.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/controllers/ProdutosController.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/views/pages/produtos/single.blade.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/composer/autoload_psr4.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/composer/autoload_real.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Rar$DIa0.610/autoload_psr4.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/composer/autoload_namespaces.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/composer/autoload_classmap.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/vendor/composer/autoload_files.php",
+		"/D/xampp/php/php.ini",
+		"/C/Users/Thiago/AppData/Local/Temp/Rar$DIa0.030/autoload_psr4.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/setting.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/views/layouts/bold/info.json",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/views/layouts/bold/topbar.blade.php",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/protected/app/config/database.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/sximo/themes/bold/css/bootstrap.min.css",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/.htaccess",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/favicon.ico",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/index.php",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/database.sql",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/logo.ico",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/robots.txt",
+		"/D/xampp/htdocs/fonix/acrilicos.bold/psd-ok/bold-home-ok.psd"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\fonix\\acrilicos.bold\\protected\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Curiosity ",
+			"mychat",
+			"<ion-list>",
+			"See",
+			"resize",
+			"imagecache",
+			"cache",
+			"rowId",
+			"ext",
+			"10",
+			"btn",
+			"6",
+			"mango"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "list.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
